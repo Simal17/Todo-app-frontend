@@ -5,7 +5,7 @@ import App from './App';
 import './index.css';
 
 const client = new ApolloClient({
-  uri: 'http://localhost:8000/',
+  uri: 'https://todo-app-backend-8gl0.onrender.com',
   cache: new InMemoryCache(),
 });
 
