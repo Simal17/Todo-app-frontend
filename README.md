@@ -16,12 +16,6 @@ Follow these steps to run the frontend locally.
 
 ---
 
-### 1️⃣ Install Dependencies
-
-```bash
-# Navigate into the frontend folder
-cd path/to/frontend
-
 # Install packages
 npm install --force
 
